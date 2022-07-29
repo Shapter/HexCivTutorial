@@ -1,0 +1,329 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'fr' Physical Memory: 16339 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity Projects/HexGridTuto
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57210
+Successfully changed project path to: E:/Unity Projects/HexGridTuto
+E:/Unity Projects/HexGridTuto
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 97.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity Projects/HexGridTuto/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     6052 MB
+    Driver:   30.0.14.7212
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56588
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001820 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 96.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.127 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002406 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity Projects\HexGridTuto\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\Unity Projects\HexGridTuto\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 126.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.233 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3418 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.9 MB.
+System memory in use after: 130.0 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3874.
+Total: 3.203400 ms (FindLiveObjects: 0.246900 ms CreateObjectMapping: 0.188800 ms MarkObjects: 2.637500 ms  DeleteObjects: 0.128800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/PlayerMovement.asset
+  artifactKey: Guid(278e058237bf9e946b73f4b7df976364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.asset using Guid(278e058237bf9e946b73f4b7df976364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781d9e512a7b5f322d2e69c5d483634d') in 0.638598 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003101 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity Projects\HexGridTuto\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\Unity Projects\HexGridTuto\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.973 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.8 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3878.
+Total: 2.584600 ms (FindLiveObjects: 0.372700 ms CreateObjectMapping: 0.216500 ms MarkObjects: 1.905100 ms  DeleteObjects: 0.089300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.965261 seconds.
+  path: Assets/GetAllTiles.cs
+  artifactKey: Guid(92921cb0e9e192945ab0860ec92a69ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GetAllTiles.cs using Guid(92921cb0e9e192945ab0860ec92a69ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5007d17659022813c50682eb3c5ed112') in 0.008264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.988068 seconds.
+  path: Assets/sprite.cs
+  artifactKey: Guid(f2ce6281ee3fe684bbf702c3d05703a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprite.cs using Guid(f2ce6281ee3fe684bbf702c3d05703a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c0aa0cdc4ca9a235e2b29f434e25de') in 0.001803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.843552 seconds.
+  path: Assets/GridManager.cs
+  artifactKey: Guid(a034550644c2c7c4da2e366546b21b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GridManager.cs using Guid(a034550644c2c7c4da2e366546b21b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db3e6daca7f3eeda2cd751c67b6ab76b') in 0.001389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 134.692875 seconds.
+  path: Assets/Astar.cs
+  artifactKey: Guid(c73f37ff199a58b4e93ff006a45e8656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Astar.cs using Guid(c73f37ff199a58b4e93ff006a45e8656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a306010fa4b8c72d5665ee6678077e02') in 0.001471 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002751 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity Projects\HexGridTuto\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\Unity Projects\HexGridTuto\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.965 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.9 MB.
+System memory in use after: 130.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3882.
+Total: 2.275700 ms (FindLiveObjects: 0.251000 ms CreateObjectMapping: 0.165100 ms MarkObjects: 1.748000 ms  DeleteObjects: 0.110700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1151.379499 seconds.
+  path: Assets/Art/Tiles/dirt_06.png
+  artifactKey: Guid(500654c419ec1d84985bd1ecd42f9bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/dirt_06.png using Guid(500654c419ec1d84985bd1ecd42f9bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bea5c93d247620c519f079be38b2f16') in 0.142933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.575037 seconds.
+  path: Assets/Prefabs/Tiles/Tile_Walkable.prefab
+  artifactKey: Guid(fa5e693084d00874e99d0f2b8c5f65a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/Tile_Walkable.prefab using Guid(fa5e693084d00874e99d0f2b8c5f65a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b63f842aab82ad8432cca32b918857') in 0.213053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.566372 seconds.
+  path: Assets/Prefabs/Tiles/Tile_Collidable.prefab
+  artifactKey: Guid(6a8c98cdd2837444f8f03ef4d8fb722d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/Tile_Collidable.prefab using Guid(6a8c98cdd2837444f8f03ef4d8fb722d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5bde22fcb619ee144df1f46bcabab2') in 0.004141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.008127 seconds.
+  path: Assets/Prefabs/PlayerCharacter.prefab
+  artifactKey: Guid(76aca13376aee5d4786acee3f5bd60d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerCharacter.prefab using Guid(76aca13376aee5d4786acee3f5bd60d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4cac8c6b1fc9e0c50a8cc3a8c03d2fd') in 0.030748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.991512 seconds.
+  path: Assets/Art/Tiles/dirt_18.png
+  artifactKey: Guid(1601b47a3f2799949b531c3f408cbf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/dirt_18.png using Guid(1601b47a3f2799949b531c3f408cbf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '923641be01c47375a6e3e49d90ba49ed') in 0.010818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.436174 seconds.
+  path: Assets/Prefabs/Tiles/Tile_Path.asset
+  artifactKey: Guid(868d12990fcfc4c4da5db5715a405bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/Tile_Path.asset using Guid(868d12990fcfc4c4da5db5715a405bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a381c1833be8ca9559f955ed39d8626') in 0.009860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.882718 seconds.
+  path: Assets/Prefabs/Tiles/Tile_Path.prefab
+  artifactKey: Guid(ae14af630adf86c44a2b033d78077957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/Tile_Path.prefab using Guid(ae14af630adf86c44a2b033d78077957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa3c2e157c885ad2b509d45be2443b4') in 0.003143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.817340 seconds.
+  path: Assets/Art/Tiles/dirt_11.png
+  artifactKey: Guid(00679ba219f6b2c4085bb3bc5373ca23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/dirt_11.png using Guid(00679ba219f6b2c4085bb3bc5373ca23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ef7bd124c85a7d18f6912618097909') in 0.041559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Art/Tiles/mars_13.png
+  artifactKey: Guid(de52234b752729841a3424ecf7b4ecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/mars_13.png using Guid(de52234b752729841a3424ecf7b4ecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85561c86e8f8e309d46c0e6dc68e11f') in 0.025190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Art/Tiles/dirt_17.png
+  artifactKey: Guid(4cc1b2d2e047ae34c97fde675b4906af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/dirt_17.png using Guid(4cc1b2d2e047ae34c97fde675b4906af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c44f8ed58bcbce797f6e8b763a1e180') in 0.025070 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Art/Tiles/dirt_12.png
+  artifactKey: Guid(ef6441fa50c0f9c418b4425c2a135a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/dirt_12.png using Guid(ef6441fa50c0f9c418b4425c2a135a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80f3677073a2991e656456af7a506711') in 0.028742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Art/Tiles/dirt_16.png
+  artifactKey: Guid(0c9ad9a0777812741898b7c8d101e2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/dirt_16.png using Guid(0c9ad9a0777812741898b7c8d101e2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3883294c3b7a6d05790793ff3e417fd1') in 0.020687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Art/Tiles/dirt_14.png
+  artifactKey: Guid(294ad57aa6ac37a49876c46c498e525d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/dirt_14.png using Guid(294ad57aa6ac37a49876c46c498e525d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d0d6ee725232f95b9a0098d20b2142') in 0.022999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Art/Tiles/grass_11.png
+  artifactKey: Guid(e004393894b6e624cbd804267dcc9e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/grass_11.png using Guid(e004393894b6e624cbd804267dcc9e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5303d9bd87ad9ceace05df5eae51c852') in 0.022398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Art/Tiles/grass_19.png
+  artifactKey: Guid(99107115fbf45104fbf8e5fca27cc5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/grass_19.png using Guid(99107115fbf45104fbf8e5fca27cc5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00caa23e0b1db356c7570d8d79fe5e45') in 0.026857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Art/Tiles/grass_10.png
+  artifactKey: Guid(f9edafafa490b4547b97debc56ccec65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/grass_10.png using Guid(f9edafafa490b4547b97debc56ccec65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0060630c8fdd4dab93fd6847ffe360be') in 0.012500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000778 seconds.
+  path: Assets/Art/Tiles/grass_05.png
+  artifactKey: Guid(dbadc78a2bceaef4fa1f3cee5d93ed23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/grass_05.png using Guid(dbadc78a2bceaef4fa1f3cee5d93ed23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490cbb7557eeb66cd27296e1d4c9697c') in 0.017929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Art/Tiles/grass_14.png
+  artifactKey: Guid(38cb93670fb174c4b803aafe335f85bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/grass_14.png using Guid(38cb93670fb174c4b803aafe335f85bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4dea688c3373dd0795e945bbb8539a0') in 0.021832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Art/Tiles/mars_07.png
+  artifactKey: Guid(e246475515fb69d4b950c532264059da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/mars_07.png using Guid(e246475515fb69d4b950c532264059da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f03f5d42fa4963201e08d5dc303db916') in 0.029014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Art/Tiles/dirt_15.png
+  artifactKey: Guid(467a3ff4c7d33fc4e956e8792ed81f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/dirt_15.png using Guid(467a3ff4c7d33fc4e956e8792ed81f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4bc905c8fad4a62c042c48806fa1c53') in 0.027673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Art/Tiles/mars_12.png
+  artifactKey: Guid(d61e8891eaf483f48a0ddf7da64d9bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/mars_12.png using Guid(d61e8891eaf483f48a0ddf7da64d9bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b3ccca2c6e7644941aff5c6ff87314') in 0.012893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Art/Tiles/grass_12.png
+  artifactKey: Guid(d57e330f5282c9947a5e1c708ebf560e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/grass_12.png using Guid(d57e330f5282c9947a5e1c708ebf560e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2001ad5db8cce2f5c3571ec1b83560') in 0.010288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Art/Tiles/grass_13.png
+  artifactKey: Guid(046ce0532b10adb4884a9b25c47ca516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/grass_13.png using Guid(046ce0532b10adb4884a9b25c47ca516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033ae7fe212e4abeef0e8c87bdfb5a46') in 0.026035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Art/Tiles/dirt_13.png
+  artifactKey: Guid(70a91aa45003e80419474613f3484aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/dirt_13.png using Guid(70a91aa45003e80419474613f3484aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76eb21f670297e7db99b3cda01c3e670') in 0.011019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Art/Tiles/mars_02.png
+  artifactKey: Guid(1bb45ba1e2afa734297a64a79700a495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/mars_02.png using Guid(1bb45ba1e2afa734297a64a79700a495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2872a605ff4fbf1f3a96ad31d1dc63') in 0.010103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Art/Tiles/grass_16.png
+  artifactKey: Guid(f8623d181275a744993e20149b340ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tiles/grass_16.png using Guid(f8623d181275a744993e20149b340ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967eb41b8511b43dcbc616d62d0358f3') in 0.022498 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002776 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\Unity Projects\HexGridTuto\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\Unity Projects\HexGridTuto\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3433 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.8 MB.
+System memory in use after: 143.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4217.
+Total: 3.791900 ms (FindLiveObjects: 0.292700 ms CreateObjectMapping: 0.324200 ms MarkObjects: 3.073800 ms  DeleteObjects: 0.099700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.967623 seconds.
+  path: Assets/Prefabs/Tiles/Brush_Collidable.asset
+  artifactKey: Guid(108c151bc317c8d478a6ba2345735e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/Brush_Collidable.asset using Guid(108c151bc317c8d478a6ba2345735e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d4e660b31a9921100ea2998e5ea1c9c') in 0.124924 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
